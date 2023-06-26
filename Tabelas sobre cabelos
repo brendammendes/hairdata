@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tabelas sobre cabelos</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <h1>Cabelos naturais: uma pesquisa sobre raça e consumo</h1>
+
+  <h2>Autodeclaração IBGE</h2>
+  <table>
+    <tr>
+      <th>Raça</th>
+      <th>Percentual</th>
+    </tr>
+    <tr>
+      <td>Dado 1</td>
+      <td>Dado 2</td>
+      <td>Dado 1</td>
+      <td>Dado 2</td>
+    </tr>
+  </table>
+
+  <h2>Tabela 2</h2>
+  <table>
+    <tr>
+      <th>Variável 1</th>
+      <th>Variável 2</th>
+    </tr>
+    <tr>
+      <td>Dado 3</td>
+      <td>Dado 4</td>
+    </tr>
+  </table>
+
+  <!-- Continuar com as outras tabelas... -->
+
+</body>
+</html>
